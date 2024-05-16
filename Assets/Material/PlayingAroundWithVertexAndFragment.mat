@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: TextureExample Graph
-  m_Shader: {fileID: -6465566751694194690, guid: 497f5000c4a9bb845a31d32d4f104cd8,
+  m_Name: PlayingAroundWithVertexAndFragment
+  m_Shader: {fileID: -6465566751694194690, guid: f34f91865cdf2354e814471b2365f95e,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
